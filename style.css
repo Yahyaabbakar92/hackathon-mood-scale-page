@@ -11,7 +11,7 @@ body {
 	color: #0b5884;
 	font-size: 1.7rem;
 	text-align: center;
-	background-image: linear-gradient(#ffffff, #dfe9f3);
+	background-image: linear-gradient(10deg#ffffff, #dfe9f3);
 }
 
 h1 {
